@@ -22,7 +22,7 @@ WARNING: Giving repetitive commands may cause latency and the visualizer may beh
 
 Available Controls inside Sorting Visualizer:-
 
-Use 1 to start Bubble Sort Algorithm.
+Use 1 to start Bubble Sort Algorithm.\n
 Use 2 to start Selection Sort Algorithm.
 Use 3 to start Insertion Sort Algorithm.
 Use 4 to start Merge Sort Algorithm.
