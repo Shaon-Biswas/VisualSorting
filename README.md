@@ -11,7 +11,7 @@ Here, all sorting algorithms will sort the elements in ascending order. The sort
 The relatively faster algorithms like Merge Sort, etc. have been delayed so that they could be properly visualized.
 
 How to run:-
-First of all you need to setup graphics.h in your vs code. You can see how to setup graphics.h from the bellow link.
+First of all you need to setup graphics.h in your vs code. You can watch how to setup graphics.h from the bellow link.
 --> https://youtu.be/QMom7QbX7IM?si=7DoG_XxzsMIYCB8k
 And download graphics.h from the bellow link.
 --> https://github.com/kumarbaberwal/Solution-to-graphics.h
